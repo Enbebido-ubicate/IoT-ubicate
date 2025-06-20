@@ -1,6 +1,6 @@
 # Proyecto GPS y Firebase con ESP32
 
-![Diagrama del proyecto](https://github.com/Enbebido-ubicate/IoT-ubicate/raw/main/imagen.png)
+![Diagrama del proyecto](https://github.com/Enbebido-ubicate/IoT-ubicate/raw/main/image.png)
 
 Este proyecto utiliza un **ESP32** con un módulo GPS para leer las coordenadas de ubicación y enviarlas a una base de datos en **Firebase Realtime Database**. Además, utiliza un **LED** para indicar el estado de la señal GPS. El sistema está diseñado para registrar la ubicación de un autobús y actualizarla en tiempo real.
 
